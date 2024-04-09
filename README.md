@@ -16,6 +16,11 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Serverless Multi-Tenant Application on AWS Amplify
 
+### Automatic Deployment
+
+This method uses AWS Amplify hosting to build, deploy, and serve the web app. You must have a GitHub account.
+
+[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/tumesh/multitenant-application-on-aws-amplify)
 
 
 ![Multi-Tenant Application Architecture](images/Amplify_Multi-Tenant_App.drawio.png)
