@@ -42,8 +42,8 @@ export const names = {
     dynamodbTodoTableName:  `${config.solutionName}-TaskDataTable-${config.environment}`,
     cognitoGlobalAdminGroupName: "GlobalAdmins",
     globalAdminDefaultUser: {
-        preferredUsername: "globalAdmin",
-        tempPassword: "ChangeMe!@12",
+        preferredUsername: "globalAdmins",
+        tempPassword: "ChangeMe@12",
         email: "globaladmin@example.com"
     },
     codecommitRepoName: `${config.solutionName}-repo-${config.environment}`,
